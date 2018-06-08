@@ -1,2 +1,2 @@
 # Akshi Boojhawon
-Access my CV [here](/Akshi Boojhawon.pdf)
+Access my CV [here](/Akshi-Boojhawon.pdf)
