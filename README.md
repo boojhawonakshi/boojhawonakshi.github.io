@@ -1,2 +1,2 @@
 # Akshi Boojhawon
-Access my CV (https://boojhawonakshi.github.io/cv.pdf)[here]
+Access my CV [here](https://boojhawonakshi.github.io/cv.pdf)
